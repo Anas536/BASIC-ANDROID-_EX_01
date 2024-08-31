@@ -128,7 +128,6 @@ public class MainActivity extends AppCompatActivity {
 
 ![WhatsApp Image 2024-08-30 at 18 36 54_7e133442](https://github.com/user-attachments/assets/c1307373-9882-428d-86f0-926e943d0aec)
 
-![WhatsApp Image 2024-08-30 at 18 36 54_953ebef8](https://github.com/user-attachments/assets/b704ff06-d98d-476e-895e-fef5dd72859e)
 
 
 ## RESULT:
